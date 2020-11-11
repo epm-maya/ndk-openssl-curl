@@ -1,0 +1,1 @@
+# ndk-openssl-curl
