@@ -10,7 +10,7 @@ rm -rf curl || true
 
 ./fetch.sh
 
-./build-openssh.sh
+./build-openssl.sh
 
 ./build-curl.sh
 
