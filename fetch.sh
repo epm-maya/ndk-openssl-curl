@@ -8,5 +8,5 @@ pushd openssl
 git submodule update --init --recursive --recommend-shallow --depth 1
 popd
 
-git clone --depth 1 --single-branch -b curl-7_74_0 https://github.com/curl/curl.git
+git clone --depth 1 --single-branch -b curl-7_75_0 https://github.com/curl/curl.git
 
